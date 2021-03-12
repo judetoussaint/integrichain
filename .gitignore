@@ -1,0 +1,6 @@
+*.xlsx
+*.log
+*.docx
+.ipnb_checkpoints
+*.ipynb
+*.csv
